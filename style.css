@@ -1,3 +1,9 @@
+body{
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   margin-bottom: 50;
