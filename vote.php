@@ -15,24 +15,19 @@
 
 		<div class="topnav">
 			<div id='menu-clock'><div id="txt"></div></div>
-  			<a class="active" href="index.php">Слушать</a>
+  			<a href="index.php">Слушать</a>
   			<a href="podcast.php">Подкасты</a>
   			<a href="schedule.php">Расписание</a>
   			<a href="memes.php">Мемы</a>
-  			<a href="vote.php">Голосовалка</a>
+  			<a class="active" href="vote.php">Голосовалка</a>
 		</div>
 
-		<div id="main-container">
+		<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeJHO-HOAQJfs656E_fjVKbHrt98dJOaVEdN5wfaz3rQZYN1w/viewform?embedded=true" width="640" height="657" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
 
-				<h1>Play music</h1>
-
-				<a href="#" class="round-button"><i class="fa fa-play fa-2x"></i></a>
-		</div>
-
-	<?php
-		include("footer.php");
-	?>
-
+		<?php
+			include("footer.php");
+		?>
+		
 	</body>
 
 </html>
