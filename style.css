@@ -86,5 +86,10 @@ iframe{
 
   width: 100%;
   height: 100%;
-  
+
+}
+
+#youtube-frame{
+  width: 50;
+  height: 60;
 }

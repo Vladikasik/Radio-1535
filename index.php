@@ -11,14 +11,6 @@
 
 	</head>
 
-
-		<script>
-	function playyoutube() {
-	    var frame = document.getElementById("youtube-frame");
-			frame.innerHTML += "<iframe width='1000' height='500' src='https://www.youtube.com/embed/5qap5aO4i9A?controls=0'frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>";
-	  }
-	</script>
-
 	<body onload="startTime()">
 
 		<div class="topnav">
@@ -34,11 +26,13 @@
 
 				<h1>Play music</h1>
 
-				<button class="w3-center center transparent_btn" onclick="playyoutube()">go</button>
+				<button class="w3-center center transparent_btn">go</button>
 
 				<!-- <a href="#" class="round-button"><i class="fa fa-play fa-2x"  onclick='play1()'></i></a> -->
 
-				<div id="youtube-frame"></div>
+				<audio controls>
+    			<source src="http://192.168.189.1:53060/stream/swyh.mp3" type="audio/mp3">
+				</audio controls>
 
 		</div>
 
