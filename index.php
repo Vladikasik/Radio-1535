@@ -25,13 +25,10 @@
 		<div id="main-container">
 
 				<h1>Play music</h1>
-
-				<button class="w3-center center transparent_btn">go</button>
-
 				<!-- <a href="#" class="round-button"><i class="fa fa-play fa-2x"  onclick='play1()'></i></a> -->
 
 				<audio controls>
-    			<source src="http://192.168.189.1:53060/stream/swyh.mp3" type="audio/mp3">
+    			<source src="http://89.223.122.217:8000/stream" type="audio/mp3">
 				</audio controls>
 
 		</div>

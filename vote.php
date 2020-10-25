@@ -22,12 +22,12 @@
   			<a class="active" href="vote.php">Голосовалка</a>
 		</div>
 
-		<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeJHO-HOAQJfs656E_fjVKbHrt98dJOaVEdN5wfaz3rQZYN1w/viewform?embedded=true" width="640" height="657" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
-
+		<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-VnZ5xOCNngWs-lczOFgKLIEMLTuzmnLGNcXGc3nQfE_u2g/viewform?embedded=true" width="640" height="1173" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
+		
 		<?php
 			include("footer.php");
 		?>
-		
+
 	</body>
 
 </html>
