@@ -16,14 +16,13 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-12 col-md-6">
-          <h6>About</h6>
+          <h6>О нас</h6>
           <p class="text-justify">This is a project of four students from the 8th V we’re always open for suggestions!</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a lorem a diam auctor blandit. Duis vel cursus velit, eget vestibulum quam. Maecenas dictum elementum massa, id molestie urna porta commodo. Phasellus quam nibh, tristique a enim eget, lobortis fringilla nisl. Quisque id elementum nisi. Proin vel orci id est ornare egestas eu id odio. Fusce at elit tristique, porta quam sit amet, dapibus lorem. Mauris laoreet sapien a turpis elementum, quis pretium orci rutrum. Maecenas malesuada dui faucibus mauris dictum mollis.
           </p>
         </div>
 
         <div class="col-xs-6 col-md-3">
-          <h6>Categories</h6>
+          <h6>Ссылки</h6>
           <ul class="footer-links">
              <li><a href="http://scanfcode.com/category/front-end-development/">Слушать!</a></li>
             <li><a href="http://scanfcode.com/category/back-end-development/">Подкасты</a></li>
@@ -34,13 +33,11 @@
         </div>
 
         <div class="col-xs-6 col-md-3">
-          <h6>Quick Links</h6>
+          <h6>Дополнительно</h6>
           <ul class="footer-links">
-            <li><a href="http://scanfcode.com/about/">About Us</a></li>
-            <li><a href="http://scanfcode.com/contact/">Contact Us</a></li>
-            <li><a href="http://scanfcode.com/contribute-at-scanfcode/">Contribute</a></li>
-            <li><a href="http://scanfcode.com/privacy-policy/">Privacy Policy</a></li>
-            <li><a href="http://scanfcode.com/sitemap/">Sitemap</a></li>
+            <li><a href="http://89.223.122.217:8003/">Радио сервер</a></li>
+            <li><a href="mailto:vvwofw@gmail.com">Сообщить об ошибке</a></li>
+            <li><a href="mailto:vvwofw@gmail.com">Предложения</a></li>
           </ul>
         </div>
       </div>
@@ -49,19 +46,19 @@
     <div class="container">
       <div class="row">
         <div class="col-md-8 col-sm-6 col-xs-12">
-          <p class="copyright-text">Copyright &copy; 2017 All Rights Reserved by
+          <p class="copyright-text">Copyright &copy; 2020 All Rights Reserved by Radio1535.ru
        <a href="#">Scanfcode</a>.
           </p>
         </div>
 
-        <div class="col-md-4 col-sm-6 col-xs-12">
+        <!-- <div class="col-md-4 col-sm-6 col-xs-12">
           <ul class="social-icons">
             <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
             <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
             <li><a class="dribbble" href="#"><i class="fa fa-dribbble"></i></a></li>
             <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
           </ul>
-        </div>
+        </div> -->
       </div>
     </div>
 </footer>

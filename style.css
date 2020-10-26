@@ -79,7 +79,7 @@ body{
 
 .shedule-table {
   width: 90%;
-  height: 50%;
+  height: 80%;
 }
 
 iframe{
@@ -92,4 +92,12 @@ iframe{
 #youtube-frame{
   width: 50;
   height: 60;
+}
+
+#footertest{
+  height: 300px;
+}
+.content {
+  min-height: calc(100vh - 70px);
+  padding: 40px 40px 0 40px;
 }
